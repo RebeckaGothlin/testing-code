@@ -1,7 +1,7 @@
 body {
   background-color: rgb(19, 41, 34);
   color: white;
-  background-image: url("./bilder/paris-painting.jpg");
+  background-image: url("../assets/paris-painting.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
