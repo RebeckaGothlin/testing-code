@@ -21,3 +21,11 @@ button {
   border: 1px solid gray;
   padding: 4px 8px;
 }
+
+.hidden {
+  display: none; /*inte */
+}
+
+.visible {
+  display: block;
+}
